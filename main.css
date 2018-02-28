@@ -1,0 +1,14 @@
+body
+{
+	background-color: grey;
+	color:white;
+	text-align: center;
+}
+
+h1
+{
+	border: 0.2em black solid;
+	width: 30%;
+	margin:auto;
+}
+
